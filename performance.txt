@@ -1,0 +1,18 @@
+	time masked table unrolled	time masked table	time poly	+opt mod	+opt mul	+opt coefs
+AES Sbox	1960	2637	2185	1761	1448	1083
+DES Sbox	547	711	920	685	484	417
+PRESENT Sbox	185	238	331	239	182	163
+
+
+	time	ref
+AddRoundKey	354	174
+SubBytes	17509	134
+Subbytes MT	32533	134
+ShiftRows	55	38
+MixColumns	454	260
+KeySchedule	4533	90
+KeySchedule MT	8327	90
+
+full AES	227880	6982
+full AES without our optimisations	450018	6982
+full AES MT	417238	6982

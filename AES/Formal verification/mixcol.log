@@ -1,0 +1,26 @@
+# instructions = 204
+# executed instructions = 1366
+# analysed instructions = 346
+With word analysis : 
+# RUD = 265
+# ISD = 17
+# CST = 30
+# SNM = 0
+
+With bit analysis : 
+# RUD_b = 8
+# ISD_b = 26
+# CST_b = 0
+# SNM_b = 0
+
+# UKD = 0
+# enum_RUD = 0
+
+# enum_ISD = 0
+
+# enum_Fuite = 0
+
+# pivot_RUD = 0
+
+# pivot_Fuite = 0
+
